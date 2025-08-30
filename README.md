@@ -222,7 +222,7 @@ MIT License - [Detaylar için LICENSE dosyasına bakın](LICENSE)
 
 ### 📞 Destek
 
-- **GitHub Issues**: [Proje sayfasında](https://github.com/ragesawyer/Auto-Video-Watermark)
+- **GitHub Issues**: [Proje sayfasında](https://github.com/ragesawyer/Auto-Video-Watermark/issues)
 - **İnstagram**: [@emrerage](https://www.instagram.com/emrerage/)
 
 ---
@@ -445,9 +445,10 @@ MIT License - [See LICENSE file for details](LICENSE)
 
 ### 📞 Support
 
-- **GitHub Issues**: [On project page](https://github.com/ragesawyer/Auto-Video-Watermark)
+- **GitHub Issues**: [On project page](https://github.com/ragesawyer/Auto-Video-Watermark/issues)
 - **Instagram**: [@emrerage](https://www.instagram.com/emrerage/)
 
 ---
 
 **Auto-Video-Watermark** - Make your videos look professional! 🎬✨
+
